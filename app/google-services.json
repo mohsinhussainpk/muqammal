@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "833459507520",
+    "firebase_url": "https://muqammal-cabc2.firebaseio.com",
+    "project_id": "muqammal-cabc2",
+    "storage_bucket": "muqammal-cabc2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833459507520:android:8b24592a3fd60075",
+        "android_client_info": {
+          "package_name": "com.example.dell.muqammal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833459507520-tv81geo1rvqffjc3crndvui5nf2rjpaq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dell.muqammal",
+            "certificate_hash": "89cf96630e7a5d3d70ba7a5c88568a9445612aa0"
+          }
+        },
+        {
+          "client_id": "833459507520-9pvjn08gpoefjrh6i8mb3p4693reluft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYOOSoiWznoPnI_Zxdl9aHJPwhc2MZepk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833459507520-9pvjn08gpoefjrh6i8mb3p4693reluft.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
